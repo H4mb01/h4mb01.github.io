@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.c7ad9ced98bba7505c75004fde7979b6.js"
+  "/precache-manifest.5aec0b586af8d3f6356aed3532d1567a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wuppern"});
